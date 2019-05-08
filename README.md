@@ -10,6 +10,8 @@ The problems from IPSC are being added to Toph to allow sport programmers to pra
 | --- | --- |
 | [Armed Bandit (Easy)](https://toph.co/p/armed-bandit-easy) | [IPSC 2018 Problem A](https://ipsc.ksp.sk/2018/real/problems/a.html) |
 | [Armed Bandit (Hard)](https://toph.co/p/armed-bandit-hard) | [IPSC 2018 Problem A](https://ipsc.ksp.sk/2018/real/problems/a.html) |
+| [Brain Fold (Easy)](https://toph.co/p/brain-fold-easy) | [IPSC 2018 Problem B](https://ipsc.ksp.sk/2018/real/problems/b.html) |
+| [Brain Fold (Hard)](https://toph.co/p/brain-fold-hard) | [IPSC 2018 Problem B](https://ipsc.ksp.sk/2018/real/problems/b.html) |
 
 ## License
 
