@@ -6,7 +6,9 @@ The problems from IPSC are being added to Toph to allow sport programmers to pra
 
 ## Problems
 
-- Armed Bandit (Easy): [IPSC](https://ipsc.ksp.sk/2018/real/problems/a.html) [Toph](https://toph.co/p/armed-bandit-easy)
+| Problem on Toph | Original in IPSC Archive |
+| --- | --- |
+| [Armed Bandit (Easy)](https://toph.co/p/armed-bandit-easy) | [IPSC 2018 Problem A](https://ipsc.ksp.sk/2018/real/problems/a.html) |
 
 ## License
 
