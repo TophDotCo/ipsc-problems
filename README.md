@@ -4,6 +4,10 @@ This repository contains the changes that were made to the original resources of
 
 The problems from IPSC are being added to Toph to allow sport programmers to practice solving them by directly submitting their solutions.
 
+## Problems
+
+- Armed Bandit (Easy): [IPSC](https://ipsc.ksp.sk/2018/real/problems/a.html) [Toph](https://toph.co/p/armed-bandit-easy)
+
 ## License
 
 As of writing this README.md, the IPSC archive is providing these resources under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license:
